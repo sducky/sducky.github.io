@@ -7,10 +7,11 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #747DBF; }
+
 
 a {
-  color: #1e6bb8;
+  color: #01DFD7;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -18,8 +19,8 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
+  color: pink;(255, 255, 255, 0.7);
+  background-color: rgba(225, 225 ,225, 0.7);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
